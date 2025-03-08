@@ -26,6 +26,7 @@ public class StaticDropdown {
 		System.out.println(dropdown.getFirstSelectedOption().getText());
 		dropdown.selectByValue("INR");
 		System.out.println(dropdown.getFirstSelectedOption().getText());
+		System.out.println("hello! adding code from gitDemo side...");
 	}
 
 }
